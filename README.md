@@ -39,7 +39,7 @@
 ถึงแม้ว่าจำนวนบัตรเสียจะมีแนวโน้มที่ดีขึ้น แต่ก็ยังคงต้องเฝ้าระวังบัตรดีที่ลดลงและไม่ประสงค์ลงคะแนนที่เพิ่มขึ้นด้วย
 
 <p align="center">
-  <img src="images/1.4_party_list_vs_constituency.png" alt="รูปที่ 1.4" width="1000">
+  <img src="images/1.4_constituency_vs_party_list.png" alt="รูปที่ 1.4" width="1000">
 </p>
 
 <p align="center"><em>รูปที่ 1.4 กราฟแสดง A) ผลรวมคะแนนเสียงของ สส.บัญชีรายชื่อ (Party-list MPs) แบ่งตามพรรค และ B) ผลรวมคะแนนเสียงของ สส.แบ่งเขต (Constituency MPs) เลือกตั้งแบ่งตามพรรค</em></p>
